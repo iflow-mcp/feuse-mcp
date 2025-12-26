@@ -1,5 +1,5 @@
 {
-  "name": "feuse-mcp",
+  "name": "@iflow-mcp/feuse-mcp",
   "type": "module",
   "version": "0.1.6",
   "packageManager": "pnpm@10.14.0",
